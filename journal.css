@@ -38,3 +38,12 @@ caption {
   font-style: italic;
   padding-top: 8px;
 }
+.text-centr {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+th {
+  background-color: #c60;
+}
