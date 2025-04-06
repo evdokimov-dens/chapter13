@@ -47,3 +47,14 @@ caption {
 th {
   background-color: #c60;
 }
+.cellcolor {
+  background-color: #fcba7a;
+}
+table table th {
+  background-color: white;
+}
+li {
+  list-style-image: url(images/backpack.gif);
+  padding-top: 5px;
+  margin-left: 20px;
+}
